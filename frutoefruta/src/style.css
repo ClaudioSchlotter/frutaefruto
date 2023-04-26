@@ -1,0 +1,40 @@
+.imagem__carrossel1 {
+    height: 400px;
+    object-fit: cover;
+    object-position: 0 80%;
+}
+
+.imagem__carrossel2 {
+    height: 400px;
+    object-fit: cover;
+}
+
+.fonte__titulo {
+    font-family: 'Pacifico', cursive;
+}
+
+.cor-especial {
+    color: darkred!important;
+}
+
+.botao-cor-especial {
+    background-color: darkred;
+    color: white;
+}
+
+.borda-cor-especial {
+    border-color: darkred;
+}
+
+.card-largura {
+    max-width: 18rem;
+}
+
+.card-posicao-imagem {
+    object-fit: cover;
+    height: 200px;
+}
+
+.background-receitas {
+    background-color: black;
+}
